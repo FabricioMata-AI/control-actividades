@@ -1,0 +1,1 @@
+Instala las bibliotecas requests y python-dotenv. 
